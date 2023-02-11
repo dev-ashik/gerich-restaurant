@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## site photo
 
-![name-of-you-image](./src/assets/profile-gerich%20restaurant.png)
+![name-of-you-image](./src/assets/gerich-restaurant-cover.png)
 
 ## Available Scripts
 
